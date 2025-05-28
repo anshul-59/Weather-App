@@ -1,0 +1,17 @@
+.app-container {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #b2c6e3, #e0eafc);
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  text-align: center;
+  color: white;
+  margin-bottom: 1.5rem;
+  font-size: 2.5rem;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
